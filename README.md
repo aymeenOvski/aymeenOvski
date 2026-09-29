@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently exploring Spring boot<br>⚡ Fun fact I’m really good at this game!
+# Hi, I'm Aymen 👋
+
+I'm a Computer Engineering graduate and software developer with experience building applications, backend services, and software projects across different layers of the stack.
+
+I work with technologies including Java/Spring Boot, Angular, Next.js, React, Go, Rust, PHP/Laravel, Python, and relational databases, with experience building REST APIs, real-time applications, and full-stack systems.
+
+My GitHub contains projects developed during my studies and professional training, including full-stack applications, backend services, real-time systems, lower-level software, and smaller projects built to experiment with and understand different technologies.
+
+I'm currently developing my skills in **AI and Data Science**, expanding my work with Python, data tools, and AI-related technologies.
+
+I learn by building: taking an idea or technical problem, implementing it, understanding what happens underneath, and using the process to deepen my understanding.
 
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-azizi-5532762b7/)
